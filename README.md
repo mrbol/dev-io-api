@@ -1,5 +1,5 @@
 # 📑dev-io-api
-Este repositório foi criado para armazenar códigos de exemplo Roteiro de estudo
+Este repositório foi criado para armazenar códigos de exemplos seguindo um roteiro de estudo
 
 ## TodoAPI
 Este exemplo utiliza os conceitos básicos de construção de uma API Web com ASP.NET Core.
