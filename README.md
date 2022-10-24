@@ -14,7 +14,7 @@ Este exemplo utiliza os conceitos básicos de construção de uma API Web com AS
 
 ## DevIO.Api 
 
-REST com ASPNET Core WebAPI completa utlizandos os seguintes recursos
+REST com ASPNET Core WebAPI completo utlizandos os seguintes recursos
 
 - [ ] .NET 6.0
 - [ ] Auto-maper
