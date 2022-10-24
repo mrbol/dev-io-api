@@ -20,4 +20,5 @@ REST com ASPNET Core WebAPI completa utlizandos os seguintes recursos
 - [ ] Auto-maper
 - [ ] Identity
 - [ ] JWT
+- [ ] Documentação com Swagger/OpenAPI
 
