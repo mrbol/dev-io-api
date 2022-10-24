@@ -11,3 +11,13 @@ Este exemplo utiliza os conceitos básicos de construção de uma API Web com AS
 - [ ] Documentação com Swagger/OpenAPI
 - [ ] Analisadores e convenções
 - [ ] Uso de UseInMemoryDatabase(banco de dados em memoria) 
+
+## DevIO.Api 
+
+REST com ASPNET Core WebAPI completa utlizandos os seguintes recursos
+
+- [ ] .NET 6.0
+- [ ] Auto-maper
+- [ ] Identity
+- [ ] JWT
+
