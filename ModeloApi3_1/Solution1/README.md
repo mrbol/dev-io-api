@@ -1,4 +1,4 @@
-# 📑 Arquitetura Onion em ASP.NET Core com CQRS
+# ⚙ Arquitetura Onion em ASP.NET Core com CQRS
 Este repositório foi criado para armazenar códigos de exemplos seguindo um roteiro de estudo
 
 ## 🔨 Web API foi desenvolvido com as seguintes recursos.
