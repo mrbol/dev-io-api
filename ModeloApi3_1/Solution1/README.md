@@ -1,7 +1,7 @@
 # ⚙ Arquitetura Onion em ASP.NET Core com CQRS
 Este repositório foi criado para armazenar códigos de exemplos seguindo um roteiro de estudo
 
-## 🔨 Web API foi desenvolvido com as seguintes recursos.
+## 🔨 Aqui está uma lista de recursos e tecnologias utlizadas .
 
 - [ ] Arquitetura Onion
 - [ ] Entity Framework Core
