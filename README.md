@@ -24,7 +24,8 @@ REST com ASPNET Core WebAPI completo utlizandos os seguintes recursos
 
 
 ##  [Modelo API 3.1](https://github.com/mrbol/dev-io-api/tree/master/ModeloApi3_1/Solution1)
-### REST com ASPNET Core WebAPI
+
+Utilizando Arquitetura Onion em ASP.NET Core com CQRS
 
 Aqui está uma lista de recursos e tecnologias utlizadas .
 
