@@ -22,3 +22,19 @@ REST com ASPNET Core WebAPI completo utlizandos os seguintes recursos
 - [ ] JWT
 - [ ] Documentação com Swagger/OpenAPI
 
+
+##  [Modelo API 3.1](https://github.com/mrbol/dev-io-api/tree/master/ModeloApi3_1/Solution1)
+### REST com ASPNET Core WebAPI
+
+Aqui está uma lista de recursos e tecnologias utlizadas .
+
+- [ ] Arquitetura Onion
+- [ ] Entity Framework Core
+- [ ] NET Core 3.1 Library / .NET Standard 2.1 Library / ASP.NET Core 3.1 WebApi
+- [ ] Swagger
+- [ ] CQRS / Mediator Pattern using MediatR Library
+- [ ] CRUD Operations
+- [ ] Inverted Dependencies
+- [ ] API Versioning
+- [ ] Analisadores e conversões Web API
+
